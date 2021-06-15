@@ -1,0 +1,1 @@
+In this project we lean how to redirect standard input and standard output.
