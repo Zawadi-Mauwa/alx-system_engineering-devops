@@ -1,0 +1,1 @@
+In this project we are getting familiar with shell initialization files, Variables, Expansions, Shell Arithmetic and The alias command.
